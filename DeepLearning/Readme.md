@@ -1,8 +1,8 @@
 ## Deep Learning
 
-| Paper Name | Status | Publication Year |
-|:--------------------------|-------------------|------|
-| Attention Is All You Need | reading | 2017 |
+| Paper Name | Status | Publication Year | Link |
+|:--------------------------|-------------------|------|----|
+| Attention Is All You Need | reading | 2017 | https://arxiv.org/pdf/1706.03762 |
 
 ###  Status Legend
 
