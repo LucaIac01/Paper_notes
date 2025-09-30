@@ -9,6 +9,6 @@
 
 ###  Status Legend
 
-- **TO READ** → the article is in my reading list but I haven’t started it yet 
-- **READING** → I’m currently reading the article (in progress)
-- **READ** → I’ve completed reading the article
+- to read → the article is in my reading list but I haven’t started it yet 
+- reading → I’m currently reading the article (in progress)
+- read → I’ve completed reading the article
