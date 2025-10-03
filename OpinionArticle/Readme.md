@@ -6,7 +6,7 @@
 |:--------------------------|-------------------|------|-----|
 | Move Too Fast, Risk Systemic Blowback | read | 2025 | https://spectrum.ieee.org/ai-systemic-blowback |
 | Quantum Technology’s Unsung Heroes | read | 2023 | https://spectrum.ieee.org/history-of-quantum-early-pioneers |
-
+| AI uses medical records to accurately predict onset of disease 20 years into the future |to read | 2025 | https://www.nature.com/articles/d41586-025-02971-3 |
 ###  Status Legend
 
 - to read → the article is in my reading list but I haven’t started it yet 
