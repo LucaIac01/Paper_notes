@@ -1,7 +1,7 @@
 ## Chemistry
 
 | Name | Status | Publication Year | Link |
-|:--------------------------|-------------------|------|----|
+|:--------------------------------|-------------------|------|----|
 | Principles of Chemical Science | to read | 2014 | https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/ |
 
 ###  Status Legend
