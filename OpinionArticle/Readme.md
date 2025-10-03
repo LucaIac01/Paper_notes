@@ -5,7 +5,7 @@
 | Article Name | Status | Publication Year | Link |
 |:--------------------------|-------------------|------|-----|
 | Move Too Fast, Risk Systemic Blowback | read | 2025 | https://spectrum.ieee.org/ai-systemic-blowback |
-| Quantum Technology’s Unsung Heroes | reading | 2023 | https://spectrum.ieee.org/history-of-quantum-early-pioneers |
+| Quantum Technology’s Unsung Heroes | read | 2023 | https://spectrum.ieee.org/history-of-quantum-early-pioneers |
 
 ###  Status Legend
 
