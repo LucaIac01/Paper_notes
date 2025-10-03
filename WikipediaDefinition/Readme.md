@@ -1,7 +1,7 @@
 ## Wikipedia Definition
 
 | Name | Status | Link |
-|:--------------------------|-------------------|------|----|
+|:--------------------------|------|----|
 | Quantum Dot | to read | https://en.wikipedia.org/wiki/Quantum_dot |
 
 ###  Status Legend
